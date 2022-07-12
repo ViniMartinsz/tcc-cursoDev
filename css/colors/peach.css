@@ -1,0 +1,45 @@
+/* =================================================================== */
+/* Peach #fcab55
+====================================================================== */
+
+#navigation ul li a:hover, 
+#navigation ul li:hover > a, 
+#bolded-line, 
+.button.gray:hover, 
+.button.light:hover, 
+.button.color, 
+input[type="button"] {
+	background: #fcab55;
+}
+
+.featured-box:hover > .circle,
+.featured-box:hover > .circle span,
+#price-range .ui-widget-header,
+.infobox,
+.flex-direction-nav .flex-prev:hover, 
+.flex-direction-nav .flex-next:hover, 
+.ls-nav-prev:hover,
+.ls-nav-next:hover,
+#scroll-top-top a, 
+.post-icon {
+	background-color:#fcab55;
+}
+
+.mr-rotato-prev:hover, 
+.mr-rotato-next:hover,
+li.current, 
+.tags a:hover {
+	background-color: #fcab55;
+	border-color: #fcab55;
+}
+
+#filters a:hover, 
+.selected, 
+#portfolio-navi a:hover {
+	background-color: #fcab55 !important;
+	border: 1px solid #fcab55 !important;
+}
+
+#current {
+	background: #fcab55 !important;
+}
